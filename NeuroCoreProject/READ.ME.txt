@@ -1,5 +1,6 @@
 NEUROCORE 2020 - How to run scripts to output figures
 
+DATA VISUALIZATION
 1. Proximity Rates and Grooming rates pre-/post-hurricane
 Run 'VisualizePaccPsoc_NC.R'
 
@@ -13,3 +14,6 @@ Run 'VisualizeGlobalNetworkMetrics.R'
 4. Sex and Kin partner preference
 Run 'generate_GlobalNetworkMetrics_NC.R'
 Run 'VisualizePartnerPreferenceMetrics.R'
+
+STATISTICS
+Run Modelling_pProx.pGroom_NC.R
